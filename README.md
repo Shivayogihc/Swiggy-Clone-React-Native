@@ -3,11 +3,11 @@
 This is a clone of the popular food delivery app, Swiggy, built with React Native.
 
 ## Features
-### Browse through a list of restaurants and their menus
-### Add items to your cart and place an order
-### Track the status of your order in real-time
-### Make secure payments through the app
-### Leave ratings and reviews for restaurants and dishes
+-Browse through a list of restaurants and their menus
+-Add items to your cart and place an order
+-Track the status of your order in real-time
+-Make secure payments through the app
+-Leave ratings and reviews for restaurants and dishes
 
 
 
