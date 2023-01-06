@@ -10,9 +10,32 @@ This is a clone of the popular food delivery app, Swiggy, built with React Nativ
 * Leave ratings and reviews for restaurants and dishes
 
 
+<img src="https://user-images.githubusercontent.com/88485343/210973289-3f534546-61d5-4411-8e3a-0eea5a17b4f0.jpg" width="178">       <img src="https://user-images.githubusercontent.com/88485343/210973352-b8a65762-53cd-4b28-a6ba-e5390a96e937.jpg" width="178">        <img src="https://user-images.githubusercontent.com/88485343/210973366-32f220e7-e599-4cb2-bbe3-019b1b53ac5c.jpg" width="178">
 
-<img src="https://user-images.githubusercontent.com/88485343/210973289-3f534546-61d5-4411-8e3a-0eea5a17b4f0.jpg" width="178"> <img src="https://user-images.githubusercontent.com/88485343/210973352-b8a65762-53cd-4b28-a6ba-e5390a96e937.jpg" width="178"> <img src="https://user-images.githubusercontent.com/88485343/210973366-32f220e7-e599-4cb2-bbe3-019b1b53ac5c.jpg" width="178">
 
+### Getting Started
+
+To get started with this app, you will need to have Expo and React Native installed on your development machine.
+
+1.Clone this repository
+   git clone https://github.com/<your-username>/swiggy-app-clone.git
+
+  2. Navigate to the project directory
+     cd swiggy-app-clone
+  
+  3. Install the dependencies
+    npm install
+4. Start the Expo development server
+    expo start
+
+
+## Built With
+  * React Native
+  * Expo
+  
+## Acknowledgements
+  * Swiggy for providing the inspiration for this app.
+  
 
 
 
